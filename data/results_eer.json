@@ -1,0 +1,89 @@
+{
+  "seats": {
+    "eastmidlands": 10,
+    "eastengland": 15,
+    "london": 16,
+    "northeast": 6,
+    "northwest": 16,
+    "southeast": 21,
+    "southwest": 12,
+    "westmidlands": 15,
+    "yorkshire": 12,
+    "wales": 9,
+    "scotland": 12,
+    "northernireland": 6
+  },
+  "results": [
+    {//1983
+      "eastmidlands": {
+        "con": 47.2,
+        "lab": 28.0,
+        "lib": 24.1,
+        "oth": .8
+      }
+    },
+    {//1987
+      "eastmidlands": {
+        "con": 48.6,
+        "lab": 30.0,
+        "lib": 21.0,
+        "oth": .4
+      }
+    },
+    {//1992
+      "eastmidlands": {
+        "con": 46.6,
+        "lab": 37.4,
+        "lib": 15.3,
+        "oth": .7
+      }
+    },
+    {//1997
+      "eastmidlands": {
+        "con": 34.9,
+        "lab": 47.8,
+        "lib": 13.6,
+        "oth": 3.7
+      }
+    },
+    {//2001
+      "eastmidlands": {
+        "con": 37.3,
+        "lab": 45.1,
+        "lib": 15.4,
+        "ukp": 1.5,
+        "oth": .8
+      }
+    },
+    {//2005
+      "eastmidlands": {
+        "con": 37.1,
+        "lab": 39.0,
+        "lib": 18.5,
+        "ukp": 2.2,
+        "grn": 1,
+        "oth": 2.3
+      }
+    },
+    {//2010
+      "eastmidlands": {
+        "con": 41.2,
+        "lab": 29.8,
+        "lib": 20.8,
+        "ukp": 3.1,
+        "grn": 1,
+        "oth": 4.1
+      }
+    },
+    {//2015
+      "eastmidlands": {
+        "con": 43.5,
+        "lab": 31.6,
+        "lib": 5.6,
+        "ukp": 15.8,
+        "grn": 3,
+        "oth": .6
+      }
+    }
+  ]
+}
